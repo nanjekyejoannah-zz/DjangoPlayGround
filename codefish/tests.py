@@ -1,4 +1,4 @@
-# from django.test import TestCase
+from django.test import TestCase
 
 # class CodefishTest(TestCase):
 #     def test_entered_the_codeship(self):
